@@ -1,0 +1,2 @@
+# registry
+Rekit plugins registr.
